@@ -1,0 +1,1 @@
+<button className=' w-32 h-8 bg-[orange] rounded-md font-medium text-xs text-[white]'>Get Started</button>
